@@ -23,6 +23,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "JanGross",
+      "name": "Jan Groß",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13641301?v=4",
+      "profile": "https://minzkraut.com",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
