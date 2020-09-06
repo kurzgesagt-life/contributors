@@ -39,5 +39,12 @@
   "projectOwner": "kurzgesagt-life",
   "repoType": "github",
   "repoHost": "https://github.com",
+  "types": {
+    "Research": {
+      "symbol": "📝",
+      "description": "Researching Game Ideas",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
   "skipCi": true
 }
