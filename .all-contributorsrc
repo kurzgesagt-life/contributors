@@ -42,7 +42,7 @@
   "types": {
     "Research": {
       "symbol": "📝",
-      "description": "Researching Game Ideas",
+      "description": "Research",
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
